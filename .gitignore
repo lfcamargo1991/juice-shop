@@ -1,3 +1,6 @@
+#Git Runner
+actions-runner/
+
 # App
 node_modules/
 juiceshop.sqlite
