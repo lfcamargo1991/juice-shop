@@ -6,7 +6,7 @@ on:
       - master
 jobs:
   build:
-    runs-on: AVKNHTEMS649012
+    runs-on: AVKNHTEMS6490122
 
     steps:
       - name: Checkout do Código
